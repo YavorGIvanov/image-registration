@@ -1,5 +1,5 @@
 [package]
-name = "imageRegistration"
+name = "image_registration"
 version = "0.1.0"
 authors = ["YavorGIvanov <yivanov@viewray.com>"]
 edition = "2018"
